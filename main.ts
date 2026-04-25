@@ -7,7 +7,7 @@ gameplay.setWeather(CLEAR)
 gameplay.setDifficulty(EASY)
 player.say(":)")
 blocks.place(CRAFTING_TABLE, pos(0, 0, 0))
-castles.buildSimpleCastle(COBBLESTONE)
+castles.buildSimpleCastle(BRICKS)
 castles.buildCastleTower(
 84,
 42,
